@@ -1,0 +1,7 @@
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\personal\source\repos\oselabs\oselabs-git\Helloworld\obj\Debug\Helloworld.pdb
